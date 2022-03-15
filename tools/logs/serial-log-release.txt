@@ -1,0 +1,24 @@
+[ INFO  ] Serial port 0x3f8 has initialized
+[ INFO  ] Global Descriptor Table has loaded
+[ INFO  ] Interrupt Descriptor Table has loaded
+[ INFO  ] Video driver has initialized
+[ INFO  ] multiboot_info: 636 KB of low address memory is available
+[ INFO  ] multiboot_info: 31680 KB of high address memory is available
+[ INFO  ] multiboot_info: Boot device is 0xe0ffffff
+[ INFO  ] multiboot_info: ELF sections are available
+[ INFO  ] multiboot_memory_map: 0x00000000 to 0x0009efff is AVAILABLE
+[ INFO  ] multiboot_memory_map: 0x0009f000 to 0x0009ffff is RESERVED
+[ INFO  ] multiboot_memory_map: 0x000e8000 to 0x000fffff is RESERVED
+[ INFO  ] multiboot_memory_map: 0x00100000 to 0x01feffff is AVAILABLE
+[ INFO  ] multiboot_memory_map: 0x01ff0000 to 0x01ffffff is RECLAIMABLE
+[ INFO  ] multiboot_memory_map: 0xfffc0000 to 0xffffffff is RESERVED
+[ INFO  ] multiboot_info: Boot loader is "GRUB 2.06"
+[ INFO  ] multiboot_info: VBE table is available
+[ INFO  ] multiboot_info: Framebuffer is available
+[ INFO  ] IRQ 1 installed with service routine 0x00100600
+[ INFO  ] IRQ 0 installed with service routine 0x00104110
+[ DEBUG ] KiHandleInterrupt: IRQ 1 (vector 33)
+[ DEBUG ] KiHandleInterrupt: IRQ 1 (vector 33)
+[ FATAL ] System exception 0x6 has occured
+[ FATAL ] *** System Crash (0xc06)
+[ INFO  ] Halting system

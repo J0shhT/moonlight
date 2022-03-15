@@ -1,0 +1,11 @@
+.old
+.vscode
+
+*.iso
+sysroot
+build
+tools/binutils-*
+tools/gcc-*
+tools/build-*
+tools/vm*
+tools/*.lnk
